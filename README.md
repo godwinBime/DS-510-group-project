@@ -3,4 +3,4 @@ Logistic Regression algorithm implementation to detect credit card fraud in bank
 
 ***********************************************************
 Link to creditcard.csv dataset
-- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraudc
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
